@@ -13,10 +13,8 @@
 .externalNativeBuild
 .cxx
 local.properties
-/app/
 # Gradle files
 .gradle/
-build/
 
 
 # Log/OS Files
